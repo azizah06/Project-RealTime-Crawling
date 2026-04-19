@@ -151,15 +151,7 @@ Buat file `.env`
 
 ---
 
-## 🚀 Pengembangan Selanjutnya
-
-- Sharding untuk scaling data besar  
-- Dashboard visualisasi  
-- Sentiment analysis  
-
----
-
 ## 👨‍💻 Author
 
-- Nama: (Isi nama kamu)  
+- Nama: Nur Azizah Rosidah 
 - Project: Tugas Big Data  
